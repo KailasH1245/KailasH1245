@@ -23,7 +23,7 @@ I'm a Data Analyst passionate about transforming raw, complex data into clear, a
 
 | Project | Tools | Description |
 |---|---|---|
-| [🔄 Churn Analysis](https://github.com/KailasH1245/Churn-Analysis) | Python, Pandas | Analyzed customer churn patterns to identify key drivers of attrition |
+| [🔄 Churn Analysis](https://github.com/KailasH1245/Churn-Analysis) | Python, SQL, PowerBI | Analyzed customer churn patterns to identify key drivers of attrition |
 | [🛒 Blinkit Dashboard](https://github.com/KailasH1245/Blinkit-Dashboard) | Power BI | Interactive sales dashboard for Blinkit grocery data |
 | [👩‍⚖️ Crimes Against Women in India](https://github.com/KailasH1245/Crimes-against-women-in-India) | Python, Excel | Analyzed 2001-2014 crime data to uncover state-wise trends |
 | [🍕 Pizza Sales](https://github.com/KailasH1245/Pizza_Sales) | SQL, Python | End-to-end sales analysis with KPIs and trend insights |
