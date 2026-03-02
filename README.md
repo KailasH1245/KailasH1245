@@ -23,12 +23,12 @@ I'm a Data Analyst passionate about transforming raw, complex data into clear, a
 
 | Project | Tools | Description |
 |---|---|---|
-| [🔄 Churn Analysis](https://github.com/KailasH1245/Churn-Analysis) | Python, SQL, PowerBI | Analyzed customer churn patterns to identify key drivers of attrition |
+| [🔄 Churn Analysis](https://github.com/KailasH1245/Churn-Analysis) | Python, SQL, Power BI | Analyzed customer churn patterns to identify key drivers of attrition |
 | [🛒 Blinkit Dashboard](https://github.com/KailasH1245/Blinkit-Dashboard) | Power BI | Interactive sales dashboard for Blinkit grocery data |
 | [👩‍⚖️ Crimes Against Women in India](https://github.com/KailasH1245/Crimes-against-women-in-India) | Python, Excel | Analyzed 2001-2014 crime data to uncover state-wise trends |
-| [🍕 Pizza Sales](https://github.com/KailasH1245/Pizza_Sales) | SQL, Python, PowerBI | End-to-end sales analysis with KPIs and trend insights |
+| [🍕 Pizza Sales](https://github.com/KailasH1245/Pizza_Sales) | SQL, Python, Power BI | End-to-end sales analysis with KPIs and trend insights |
 | [🎬 Amazon Prime Dashboard](https://github.com/KailasH1245/Amazon-Prime-PBI-Dashboard) | Power BI | Content analytics dashboard for Amazon Prime Video |
-| [👥 HR Attrition Dashboard](https://github.com/KailasH1245/HR-Attrition-Analysis-Dashboard) | Power BI | HR analytics dashboard tracking employee attrition factors |
+| [👥 HR Attrition Dashboard](https://github.com/KailasH1245/HR-Attrition-Analysis-Dashboard) | Excel | HR analytics dashboard tracking employee attrition factors |
 
 ---
 
