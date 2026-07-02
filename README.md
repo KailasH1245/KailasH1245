@@ -42,6 +42,7 @@ I'm a Data Analyst passionate about transforming raw, complex data into clear, a
 
 ## 📜 Certifications
 
+- 🏅 Google Data Analytics Certificate — Google/Coursera (TBD)
 - 🏅 Excel Macros & VBA for Beginners — Simplilearn (Dec 2025)
 - 🏅 Data Analytics — Jobaaj.com (Dec 2023)
 - 🏅 SQL 5 star — HackerRank
