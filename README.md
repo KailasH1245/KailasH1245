@@ -22,7 +22,7 @@ Computer Engineering graduate specializing in end-to-end data pipelines—from *
 
 | Project | Stack | Key Highlights |
 |---|---|---|
-| [🏦 Czech Bank Credit Risk & Financial Analytics]([https://github.com/KailasH1245](https://github.com/KailasH1245/berka-bank-analytics)) | Python, SQL Server, Power BI | Built an end-to-end ETL pipeline and star schema in SSMS; engineered DAX measures for Default Rate %, Net Cash Flow, and customer segmentation across a 3-page report |
+| [🏦 Czech Bank Credit Risk & Financial Analytics]([https://github.com/KailasH1245](https://github.com/KailasH1245/berka-bank-analytics) | Python, SQL Server, Power BI | Built an end-to-end ETL pipeline and star schema in SSMS; engineered DAX measures for Default Rate %, Net Cash Flow, and customer segmentation across a 3-page report |
 | [🛍️ Walmart Customer Retention Analytics](https://github.com/KailasH1245/Walmart-Customer-Retention-Analytics) | Python, SQL, Power BI | Segmented customer cohorts and retention drivers to uncover repeat-purchase behavior and revenue concentration |
 | [🛒 Blinkit Retail Sales Dashboard](https://github.com/KailasH1245/Blinkit-Dashboard) | Python, SQL, Power BI | Cleaned retail inventory data in Python, ran exploratory SQL queries, and built an interactive Power BI KPI dashboard tracking outlet performance |
 | [🔄 Customer Churn Analysis](https://github.com/KailasH1245/Churn-Analysis) | Python, SQL, Power BI | Identified high-risk churn segments and key attrition drivers across customer tenure and contract types |
