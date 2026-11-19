@@ -22,8 +22,8 @@ Computer Engineering graduate specializing in end-to-end data pipelines—from *
 
 | Project | Stack | Key Highlights |
 |---|---|---|
-| [🏦 Czech Bank Credit Risk & Financial Analytics]([https://github.com/KailasH1245](https://github.com/KailasH1245/berka-bank-analytics) | Python, SQL Server, Power BI | Built an end-to-end ETL pipeline and star schema in SSMS; engineered DAX measures for Default Rate %, Net Cash Flow, and customer segmentation across a 3-page report |
-| [🛍️ Walmart Customer Retention Analytics](https://github.com/KailasH1245/Walmart-Customer-Retention-Analytics) | Python, SQL, Power BI | Segmented customer cohorts and retention drivers to uncover repeat-purchase behavior and revenue concentration |
+| [🏦 Czech Bank Credit Risk & Financial Analytics](https://github.com/KailasH1245/berka-bank-analytics) | Python, SQL Server, Power BI | Built an end-to-end ETL pipeline and star schema in SSMS; engineered DAX measures for Default Rate %, Net Cash Flow, and customer segmentation across a 3-page report |
+| [🛍️ Walmart Customer Retention Analytics](https://github.com/KailasH1245/Walmart-Customer-Retention-Analytics) | Power BI, DAX, Data Modeling | Diagnosed a 49.67% churn rate across a 5-table relational model; uncovered zero basket-size lift from blanket promos and isolated High-CLV win-back segments |
 | [🛒 Blinkit Retail Sales Dashboard](https://github.com/KailasH1245/Blinkit-Dashboard) | Python, SQL, Power BI | Cleaned retail inventory data in Python, ran exploratory SQL queries, and built an interactive Power BI KPI dashboard tracking outlet performance |
 | [🔄 Customer Churn Analysis](https://github.com/KailasH1245/Churn-Analysis) | Python, SQL, Power BI | Identified high-risk churn segments and key attrition drivers across customer tenure and contract types |
 | [👩‍⚖️ Crimes Against Women in India (2001–2014)](https://github.com/KailasH1245/Crimes-against-women-in-India) | Python, Excel | Analyzed 14 years of state-wise crime records to highlight regional trends and year-over-year shifts |
